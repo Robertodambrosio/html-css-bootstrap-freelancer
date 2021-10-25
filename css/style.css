@@ -1,5 +1,17 @@
+/* commons  */
+
 * {
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+}
+
+
+
+
+
+/* header  */
+
+.mc_bgnav {
+    background-color: #2c3e50;
 }

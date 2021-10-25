@@ -21,6 +21,10 @@
     color: white
 }
 
+.avatar {
+    max-width: 300px;
+}
+
 hr {
     width: 15%;
     border: 2px solid;

@@ -1,16 +1,8 @@
-/* commons  */
-
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-
-
-
-
 /* header  */
+
+.spazio {
+    max-width: 1100px;
+}
 
 .mc_bgnav {
     background-color: #2c3e50;
@@ -18,7 +10,7 @@
 
 .mc_bggreen {
     background-color: #1abc9c;
-    color: white
+
 }
 
 .avatar {
@@ -29,6 +21,7 @@ hr {
     width: 15%;
     border: 2px solid;
     margin: 0 10px;
+    max-width: 150px;
 }
 
 .mc_titlesection {

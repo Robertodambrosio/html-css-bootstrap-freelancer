@@ -39,6 +39,11 @@ hr {
     border-radius: 50%;
 }
 
+.mc_footertop i:first-of-type,
+i:last-of-type {
+    padding: 15px 18px 15px 18px
+}
+
 .mc_footerbottom {
     background-color: #2c3e50
 }
